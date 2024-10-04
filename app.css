@@ -69,10 +69,12 @@ main {
   font-weight: var(--medium);
   margin: var(--spacing-md150) 0;
 }
+h1{
+  margin: var(--spacing-md150) 0;
+}
 h1 a{
   font-size: var(--heading-size);
   font-weight: var(--extra-bold);
-  margin: var(--spacing-md150) 0;
   text-decoration: none;
   color: var(--dark-grey);
 }
